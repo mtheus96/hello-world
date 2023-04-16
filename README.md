@@ -1,2 +1,2 @@
 # hello-world
-descrição
+arquivo para o exercicio de ADS da unicesumar.
